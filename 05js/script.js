@@ -1,0 +1,1 @@
+document.querySelector(".diwali-deals-product-sale-btn").innerHTML = "checkout"

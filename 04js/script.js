@@ -1,0 +1,1 @@
+document.querySelector(".customer-support .one-tel-number").innerHTML = "+7903847419"
